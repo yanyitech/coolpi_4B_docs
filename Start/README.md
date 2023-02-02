@@ -6,6 +6,6 @@ English | [简体中文](./README_CN.md)
 
 `Start` records some common operations used when starting to use CoolPI, including burning firmware, updating Uboot, etc.
 
-## 目录
+## Contents
 
 * [CoolPI-4B update uboot](./Update/Update_UBoot.md)

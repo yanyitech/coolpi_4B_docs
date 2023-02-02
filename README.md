@@ -12,6 +12,10 @@ Due to limited time, these documents are usually mixed with Chinese and English,
 In order to solve this problem, we specially set up this warehouse to record some common problems encountered during the development of CoolPI-4B.
 I hope this warehouse can help you quickly get started with the CoolPI-4B development board.
 
+## Contents
+
+* [Start](./Start/README_CN.md): This will teach you how to get started.
+
 ## Navigation
 
 * [CoolPI Forum](https://www.cool-pi.com): If you need to get real-time information and communicate with developers around the world, please join.
