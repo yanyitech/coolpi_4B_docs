@@ -18,5 +18,5 @@ CoolPI论坛是一个开放且包容的社区，汇集了多个国家的开发�
 
 ## 导航
 
-* [CoolPI论坛](https://www.cool-pi.com): 如果你需要获取实时的信息并与全球的开发者们交流，请加入。
+* [CoolPI论坛](https://www.cool-pi.com): 如果你需要获取实时的信息并与全球的开发者们交流，请加入我们。
 * [Issues](https://github.com/yanyitech/coolpi_4B_docs/issues): 如果你对仓库有建议，请在这里提出你宝贵的意见。
