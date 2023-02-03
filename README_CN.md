@@ -15,6 +15,7 @@ CoolPI论坛是一个开放且包容的社区，汇集了多个国家的开发�
 ## 目录
 
 * [Start](./Start/README_CN.md): 这将教会你如何上手CoolPI-4B
+* [Software](./Software/README_CN.md): 这将教会你如何安装常用的软件
 
 ## 导航
 
