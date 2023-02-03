@@ -18,5 +18,5 @@ I hope this warehouse can help you quickly get started with the CoolPI-4B develo
 
 ## Navigation
 
-* [CoolPI Forum](https://www.cool-pi.com): If you need to get real-time information and communicate with developers around the world, please join.
+* [CoolPI Forum](https://www.cool-pi.com): If you need to get real-time information and communicate with developers around the world, please join us.
 * [Issues](https://github.com/yanyitech/coolpi_4B_docs/issues): If you have any suggestions for the repo, please put forward your valuable suggestions here.
