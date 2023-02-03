@@ -14,7 +14,8 @@ I hope this warehouse can help you quickly get started with the CoolPI-4B develo
 
 ## Contents
 
-* [Start](./Start/README_CN.md): This will teach you how to get started.
+* [Start](./Start/README.md): This will teach you how to get started.
+* [Software](./Software/README.md): This will teach you how to install commonly used software.
 
 ## Navigation
 
