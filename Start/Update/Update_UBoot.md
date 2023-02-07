@@ -12,7 +12,7 @@ This document will teach you how to upgrade UBoot.
 Before you start upgrading UBoot, you need to download our latest firmware package.
 We provide two ways (Baidu Netdisk and Onedrive) for developers to download the upgrade firmware package. You can reach our download address through the following link:
 
-* [百度网盘](https://pan.baidu.com/s/1QV7RyMLqqK70ugYMxcXnbQ?pwd=qg2f): `coolpicoolpi/loader/RKDevTool_Release_v2.92_loader0104.zip`
+* [Baidu Netdisk](https://pan.baidu.com/s/1QV7RyMLqqK70ugYMxcXnbQ?pwd=qg2f): `coolpicoolpi/loader/RKDevTool_Release_v2.92_loader0104.zip`
 * [Onedrive](https://coolpi-my.sharepoint.com/:f:/g/personal/coolpi_coolpi_onmicrosoft_com/EuWQQ9Cxt0pKs2-UxgJjFFABVwsC916i49ZcjPIxM9wq8w?e=DFiNvC): `coolpi-4b/loader/RKDevTool_Release_v2.92_loader0104.zip`
 
 ## Update firmware package

@@ -33,4 +33,4 @@ make install
 
 ## Navigation
 
-* [GStreamer的安装](../GStreamer/GStreamer_Install.md)
+* [Installation of GStreamer](../GStreamer/GStreamer_Install.md)

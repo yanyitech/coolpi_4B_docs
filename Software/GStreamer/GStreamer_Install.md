@@ -1,5 +1,7 @@
 # How to install GStreamer
 
+English | [简体中文](./GStreamer_Install_CN.md)
+
 ## Introduce
 
 GStreamer is an open source multimedia framework used to build streaming media applications. Its goal is to simplify the development of audio/video applications. It has been used to process multimedia data in multiple formats such as MP3, Ogg, MPEG1, MPEG2, AVI, Quicktime, etc.

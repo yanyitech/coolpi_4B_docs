@@ -1,5 +1,7 @@
 # 如何安装GStreamer
 
+[English](./GStreamer_Install.md) | 简体中文
+
 ## 简介
 
 GStreamer 是用来构建流媒体应用的开源多媒体框架(framework)，其目标是要简化音/视频应用程序的开发，已经能够被用来处理像 MP3、Ogg、MPEG1、MPEG2、AVI、Quicktime 等多种格式的多媒体数据。
