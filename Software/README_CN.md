@@ -10,9 +10,9 @@
 
 如果在目录中没有找到你想要安装的第三方库，请在Issues中提出。
 
-### QT
-
-* [QT的安装](./QT/QT_Install_CN.md)
+* [如何安装QT](./QT/QT_Install_CN.md)
+* [如何安装OpenCV](./OpenCV/OpenCV_Install_CN.md)
+* [如何安装GStreamer](./GStreamer/GStreamer_Install_CN.md)
 
 
 
