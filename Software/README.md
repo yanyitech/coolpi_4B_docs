@@ -10,9 +10,9 @@ English | [简体中文](./README_CN.md)
 
 If the third-party library you want to install is not found in the directory, please put it forward in Issues.
 
-* [How to install QT on CoolPI-4B](./QT/QT_Install.md)
-
-
+* [How to install QT](./QT/QT_Install.md)
+* [How to install OpenCV](./OpenCV/OpenCV_Install.md)
+* [How to install GStreamer](./GStreamer/GStreamer_Install.md)
 
 ## Navigation
 
