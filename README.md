@@ -1,6 +1,6 @@
-# CoolPI-4B Development Docs
-
 English | [简体中文](./README_CN.md)
+
+# CoolPI-4B Development Docs
 
 ## Introduce
 
@@ -16,6 +16,7 @@ I hope this warehouse can help you quickly get started with the CoolPI-4B develo
 
 * [Start](./Start/README.md): This will teach you how to get started.
 * [Software](./Software/README.md): This will teach you how to install commonly used software.
+* [AI](./AI/README_CN.md): You will learn how to develop AI applications on CoolPI.
 
 ## Navigation
 

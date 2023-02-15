@@ -1,6 +1,6 @@
-# CoolPI-4B 开发文档
-
 [English](./README.md) | 简体中文
+
+# CoolPI-4B 开发文档
 
 ## 简介
 
@@ -16,6 +16,7 @@ CoolPI论坛是一个开放且包容的社区，汇集了多个国家的开发�
 
 * [Start](./Start/README_CN.md): 这将教会你如何上手CoolPI-4B
 * [Software](./Software/README_CN.md): 这将教会你如何安装常用的软件
+* [AI](./AI/README_CN.md): 你将学会如何在CoolPI上开发AI应用程序
 
 ## 导航
 
